@@ -3,7 +3,7 @@ import org.junit.jupiter.api.*;
 /**
  * Unit test for simple App.
  */
-public class FirstTestTest 
+public class helloTest 
 {
 	
 	@BeforeAll
