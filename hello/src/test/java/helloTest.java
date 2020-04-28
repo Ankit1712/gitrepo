@@ -1,5 +1,3 @@
-package com.temp.junit.temptestcase;
-
 import org.junit.jupiter.api.*;
 
 /**
